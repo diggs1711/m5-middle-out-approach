@@ -1,4 +1,4 @@
-# m5-middle-out-approach
+# M5 middle out approach
 A middle out approach to m5 competition that would have scored 0.63413 on the private leaderboard, which is a top 215 solution
 
 I used the scikit library https://scikit-hts.readthedocs.io/en/latest/ to create the hierarchy and the main dataframe
